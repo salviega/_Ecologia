@@ -13,7 +13,7 @@ El programa se ejecuta unicamente corrinedo el script _main_. Lo más probale es
 
 ![Screen Shot 2022-01-11 at 05 14 23](https://user-images.githubusercontent.com/90350943/148924682-6f156e4f-0eb0-4156-95ce-8a136dbe7e35.png)
 
-Cuando haya descomprimido el archivo .zip abra una ventana de comando, como vió en el vídeo del paso 1., e ingrese a la carpeta. En mi caso esta será la ruta que uso para llegar a los archivos. "cd" es un instrución que entiende el compu para moverse entre carpetas.
+Cuando haya descomprimido el archivo .zip abra una ventana de comando, como vió en el vídeo del paso 1., e ingrese a la carpeta. En mi caso esta será la ruta que uso para llegar a los archivos. "cd" es un instrucción que entiende el compu para moverse entre carpetas.
 
 ```
 cd Downloads/_Ecologia-main/Python/sensores_remotos/landsat8
@@ -24,6 +24,21 @@ cd Downloads/_Ecologia-main/Python/sensores_remotos/landsat8
 ```
 pip install -r requirements.txt
 ```
+
+4. En este punto, y por comodidad, abriremos el archivo «main.py» por algún editor de código, puede ser Pycharm o Visual Studio Code, por ejemplo, hay millones de editores de código fuente. Aquí le explicará como instalar Python en ambos editores. Yo usaré Visual Studio.
+
+Pycharm: https://www.youtube.com/watch?v=EhN8BaHLCfY
+Visual Studio Code: https://www.youtube.com/watch?v=-IyA_Yvs8IQ
+
+luego de eso se encontrará con este código:
+
+![Screen Shot 2022-01-11 at 05 50 22](https://user-images.githubusercontent.com/90350943/148929828-fb292c75-9412-40f3-8e50-6d3ca88e08d4.png)
+
+Vamos por pasos.
+
+5. 
+
+
 
 ## Bibliografía
 
