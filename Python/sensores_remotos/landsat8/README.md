@@ -28,15 +28,20 @@ pip install -r requirements.txt
 4. En este punto, y por comodidad, abriremos el archivo «main.py» por algún editor de código, puede ser Pycharm o Visual Studio Code, por ejemplo, hay millones de editores de código fuente. Aquí le explicará como instalar Python en ambos editores. Yo usaré Visual Studio.
 
 Pycharm: https://www.youtube.com/watch?v=EhN8BaHLCfY
+
 Visual Studio Code: https://www.youtube.com/watch?v=-IyA_Yvs8IQ
 
-luego de eso se encontrará con este código:
+luego de eso se encontrará con este código, lo único que tendrá que hacer es reemplazar las xxx que se encuentran dentro de las comillas y ya.
 
 ![Screen Shot 2022-01-11 at 05 50 22](https://user-images.githubusercontent.com/90350943/148929828-fb292c75-9412-40f3-8e50-6d3ca88e08d4.png)
 
-Vamos por pasos.
+Pero vamos por partes.
 
-5. 
+5. En la linea 4 «# Site's coord (EPSG:4326)» tendrá que escribir las coordenadass del lugar de interés, en este ejemplo tomaré la ciudad de Bogotá, Bogotá urbana. En internet está todo, busque por ahí las coordenadas. Después de reemplazar los valores «000» de latitud y longitud, mire el «screenshot», ingrese a esta página https://geojson.io/ para que genere el área de estudio y descarge el archivo .JSON. La página es contraintuitiva por lo que no explicaré como usarla, y además quiere sabe que es JSON le dejo un vídeo que se lo explica. Lo que sí debe saber es que en el archivo que descargará se encuentran las coordenasdas en el formato que el programa entiende. 
+
+¿Qué es JSON?:  https://www.youtube.com/watch?v=FnW_WeBlCMk
+
+![Screen Shot 2022-01-11 at 06 13 06](https://user-images.githubusercontent.com/90350943/148932669-fa31acf9-8778-4637-b90b-947d62e8f290.pn
 
 
 
