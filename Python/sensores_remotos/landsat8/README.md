@@ -37,11 +37,17 @@ luego de eso se encontrará con este código, lo único que tendrá que hacer es
 
 Pero vamos por partes.
 
-5. En la linea 4 «# Site's coord (EPSG:4326)» tendrá que escribir las coordenadass del lugar de interés, en este ejemplo tomaré la ciudad de Bogotá, Bogotá urbana. En internet está todo, busque por ahí las coordenadas. Después de reemplazar los valores «000» de latitud y longitud, mire el «screenshot», ingrese a esta página https://geojson.io/ para que genere el área de estudio y descarge el archivo .JSON. La página es contraintuitiva por lo que no explicaré como usarla, y además quiere sabe que es JSON le dejo un vídeo que se lo explica. Lo que sí debe saber es que en el archivo que descargará se encuentran las coordenasdas en el formato que el programa entiende. 
+5. En la linea 4 «# Site's coord (EPSG:4326)» tendrá que escribir las coordenadass del lugar de interés, en este ejemplo tomaré la ciudad de Bogotá, Bogotá urbana. En internet está todo, busque por ahí las coordenadas. Después de reemplazar los valores «000» de latitud y longitud, mire el «screenshot».
+
+![Screen Shot 2022-01-11 at 06 22 31](https://user-images.githubusercontent.com/90350943/148933964-1bc5b63e-1c23-4345-bb68-86d2f91aa20f.png)
+
+Ingrese a esta página https://geojson.io/ para que genere el área de estudio y descarge el archivo .JSON. La página es contraintuitiva por lo que no explicaré como usarla, y si quiere sabe que es JSON le dejo un vídeo que se lo explica. Lo que sí debe saber es que en el archivo contiene las coordenasdas en el formato que el programa entiende. 
 
 ¿Qué es JSON?:  https://www.youtube.com/watch?v=FnW_WeBlCMk
 
-![Screen Shot 2022-01-11 at 06 13 06](https://user-images.githubusercontent.com/90350943/148932669-fa31acf9-8778-4637-b90b-947d62e8f290.pn
+![Screen Shot 2022-01-11 at 06 13 06](https://user-images.githubusercontent.com/90350943/148932669-fa31acf9-8778-4637-b90b-947d62e8f290.pn)
+
+para finalizar escriba la dirección donde se encuentra el archivo, mire otra vez el «screenshot»
 
 
 
