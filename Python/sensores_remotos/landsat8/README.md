@@ -65,10 +65,6 @@ para finalizar escriba la dirección donde se encuentra el archivo, mire otra ve
 10. Si desea la descarga multitemporal, ya dependerá de su escala de trabajo, tendrá que modificar las fechas de la línea 19. Yo copiaría esa línea de código, digamos 5 veces, para realizar un estudio multitemporal de 5 años, de 2017 a 2021 en el mes de enero; mire el «screenshot», y corra el script.
 
 ![Screen Shot 2022-01-11 at 06 49 02](https://user-images.githubusercontent.com/90350943/148939746-8c8fe99a-94d8-46b9-bedb-f7ef0a9aaeb3.png)
-
- 
- 
-## Bibliografía
  
 ## Construido
  
