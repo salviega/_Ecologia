@@ -15,15 +15,15 @@ El programa se ejecuta unicamente corrinedo el script _main_. Lo más probale es
 
 Cuando haya descomprimido el archivo .zip abra una ventana de comando, como vió en el vídeo del paso 1., e ingrese a la carpeta. En mi caso esta será la ruta que uso para llegar a los archivos. "cd" es un instrución que entiende el compu para moverse entre carpetas.
 
-'''
+```
 cd Downloads/_Ecologia-main/Python/sensores_remotos/landsat8
-'''
+```
 
 3. Estando en la carpeta «landsat8» instale los paquetes respectivos con la siguiente linea de código.
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ## Bibliografía
 
