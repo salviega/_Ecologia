@@ -12,7 +12,7 @@ El umbral de la puntuación de dispersión típica es "subjetiva" pero una exten
 
 La función «removeOutliers» será la encargada de retornar el set de datos sin «outliers» pero se mostrará en consola los registros eliminados. 
 
-La función tiene la ventaja de que el umbral de detección es móvil, el usuario tiene la potestad para escoger una puntuación de extensión de la curva de dispersión. Al igual que en el programa de grupos funcionales, realizó una práctica para mostrar cómo se deben pasar el set de datos por la función. 
+La función tiene la ventaja de que el umbral de detección es móvil, el usuario tiene la potestad para escoger la puntuación de extensión para la curva de dispersión. Al igual que en el programa de grupos funcionales, realizó una práctica para mostrar cómo se deben pasar el set de datos por la función. 
 
 Los datos del ejemplo son de mi tesis de pregrado "Diversidad funcional a lo largo de la cronosecuencia de pastura abandonada a bosque húmedo tropical en paisaje amazónico" pertenecientes al instituto SINCHI del proyecto: «Restauración de áreas disturbadas por implementación de sistemas productivos agropecuarios en el departamento de Caquetá».
 
